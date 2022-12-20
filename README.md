@@ -14,6 +14,8 @@ With internal data, it would be interesting to look at campaign velocity (i.e., 
 creator category (Artist vs Gaming vs Lifestyle vs etc..), creator engagement, along with various other measures to
 estimate campaign performance. 
 
+Download the tableau dashboard here: [github.com/arm-e/makeship-scraper/raw/master/makeship.twbx](https://github.com/arm-e/makeship-scraper/raw/master/makeship.twbx)
+
 ![Tableau reader image](./tableau_reader_img.png)
 
 ## Requirements 📐
